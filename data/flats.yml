@@ -1,0 +1,54 @@
+manon:
+  owner_name: manon champredon
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: manon's home
+  summary: Charming room in uccle
+  city: uccle, belgium
+  wifi: true
+  rooms : 3
+  accommodates: 2
+  bathrooms: 1
+  bed_type: "king size"
+  bedrooms: 1
+  beds: 1
+  property_type : "apartement"
+  room_type: "entire home/apt"
+  about : "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+
+mykim:
+  owner_name: mykim bui
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: mykim's home
+  summary: Nice flat in ixelles
+  city: seoul, korea
+  wifi: false
+  rooms : 7
+  accommodates: 2
+  bathrooms: 1
+  bed_type: "king size"
+  bedrooms: 1
+  beds: 1
+  property_type : "apartement"
+  room_type: "entire home/apt"
+  about : "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+
+lucas:
+  owner_name: lucas Paillard
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: lucas's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  rooms : 1
+  accommodates: 2
+  bathrooms: 1
+  bed_type: "king size"
+  bedrooms: 1
+  beds: 1
+  property_type : "apartement"
+  room_type: "entire home/apt"
+  about : "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+
